@@ -16,3 +16,11 @@ Description:
 4- Read the project.csv file and make two index columns, namely, ‘First Name’ and ‘Last Name’.
 5- Print the data frame in a Boolean form as True or False. True for Null/ NaN values and false for non-null values.
 6- Read the data frame by skipping the first 3 rows and print the data frame.
+
+# Features Reduction - LogisticRegression code covers:
+- import libraries and the dataset
+- define the data and target values
+- split the data and target values into training and testing sets
+- implement a logistic regression model
+- perform PCA transformation
+- implement the logistic regression model over the transformed datasets
