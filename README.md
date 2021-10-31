@@ -10,12 +10,12 @@ Description:
 *Objective: Perform data processing on the raw data.
 
 *Actions to perform:
-1- Save the data frame into a .csv file as project.csv
-2- Read the project.csv file and print the data frame.
-3- Read the project.csv file without column heading.
-4- Read the project.csv file and make two index columns, namely, ‘First Name’ and ‘Last Name’.
-5- Print the data frame in a Boolean form as True or False. True for Null/ NaN values and false for non-null values.
-6- Read the data frame by skipping the first 3 rows and print the data frame.
+- Save the data frame into a .csv file as project.csv
+- Read the project.csv file and print the data frame.
+- Read the project.csv file without column heading.
+- Read the project.csv file and make two index columns, namely, ‘First Name’ and ‘Last Name’.
+- Print the data frame in a Boolean form as True or False. True for Null/ NaN values and false for non-null values.
+- Read the data frame by skipping the first 3 rows and print the data frame.
 
 # Features Reduction - LogisticRegression code covers:
 - import libraries and the dataset
