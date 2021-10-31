@@ -24,3 +24,4 @@ Description:
 - implement a logistic regression model
 - perform PCA transformation
 - implement the logistic regression model over the transformed datasets
+- check for the accuracy
