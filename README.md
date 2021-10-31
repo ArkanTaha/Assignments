@@ -25,3 +25,9 @@ Description:
 - perform PCA transformation
 - implement the logistic regression model over the transformed datasets
 - check for the accuracy
+
+# Labelled Feature Reduction code covers:
+- import libraries and the dataset
+- define the data and target values
+- instantiate LDA
+- transform the x variables using LDA
