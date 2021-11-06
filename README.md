@@ -40,3 +40,10 @@ Description:
 - print the accuracy
 - fit the random forest classifier on the transformed data
 - print the accuracy of the random forest classifier model
+
+# Fit SVM classifier - voice classification
+- import the libraries and the datasets
+- check for missing values
+- check the distribution for the dataset
+- preprocess the data using the label encoders
+- fit SVM classifier on the transformed data
