@@ -47,3 +47,6 @@ Description:
 - check the distribution for the dataset
 - preprocess the data using the label encoders
 - fit SVM classifier on the transformed data
+- print the accuracay, confusion metrics, and classification report
+- use grid search to optimize the results further
+- print the accuracay, confusion metrics, and classification report of the optimized model
