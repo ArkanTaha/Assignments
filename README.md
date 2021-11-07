@@ -50,3 +50,12 @@ Description:
 - print the accuracay, confusion metrics, and classification report
 - use grid search to optimize the results further
 - print the accuracay, confusion metrics, and classification report of the optimized model
+
+# Cluster Animals:
+- import libraries and the dataset
+- check for missing values
+- identify unique values and plot them
+- extract features necessary for clustering within a single variable
+- fit agglomerative clustering model on the feature data
+- predict labels for each animal
+- print the RMSE of the model
