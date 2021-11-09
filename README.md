@@ -59,3 +59,13 @@ Description:
 - fit agglomerative clustering model on the feature data
 - predict labels for each animal
 - print the RMSE of the model
+
+# Cluster Based Incentivization:
+- import libraries and the dataset
+- fit the K-means model on the dataset
+- evaluate the cluster centers and labels
+- plot the cluster to see the distribution of datapoints
+- iterate the same by changing the number of clusters to 4
+- again, evaluate the clusters to see the distribution of datapoints
+- plot the cluster to see the distribution of datapoints
+- draw inference out of both the plots
